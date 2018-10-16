@@ -2,5 +2,5 @@
 Kafka Simple Producer and Simple Consumer implemented in C
 
 Requirements:
-Apache Kafka
-librdkafka
+* [Apache Kafka](https://kafka.apache.org/)
+* [librdkafka](https://github.com/edenhill/librdkafka)
